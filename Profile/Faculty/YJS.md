@@ -1,9 +1,9 @@
 
-## Geetika Sharma
+## Sourabh Sharma
 
 ### Cyber Security Expert
 
-![Display picture](Photos/Shailja.jpg)
+![Display picture](Photos/SS.png)
 
 ## Qualification
 
