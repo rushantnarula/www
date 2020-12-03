@@ -1,5 +1,5 @@
 
-| #Photo | ![Display picture](Photos/Shailja.jpg) 
+| #Photo# | ![Display picture](Photos/Shailja.jpg) 
 | ------ | -------- |
 | *Name*| shailja|
 | *Date of Birth* | 15/02/1984 |
