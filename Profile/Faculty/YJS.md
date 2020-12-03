@@ -16,10 +16,10 @@
 
 | Sr. No. | Item        | Description     |
 | ------- | ----------- | --------------- |
-| 1       | DoB         | 31/12/1990      |
+| 1       | DoB         | 31/12/1986    |
 | 2       | Designation | Professor       |
 | 3       | Email       | foo@gndec.ac.in |
-| 4       | Experience  | 2 years         |
+| 4       | Experience  | 9 years         |
 
 ## Hobbies
 
