@@ -1,10 +1,29 @@
 
-| **Photo** | ![Display picture](Photos/uv.png) 
-| ------ | -------- |
-| *Name* | Yuvraj Singh |
-| *Date of Birth* | 23/04/1991 |
-| *Designation* | Assistant Professor |
-| *Department* | Civil Engineering |
-| *Email* | yuvraj_singh@gndec.ac.in |
-| *Experience* | Assistant Professor @ GNDEC, Ludhiana (From August 2015 to till date) |
-| *Qualification* | PhD (Pursuing), M.tech (Structural Engineering) - Gold Medalist, B.tech (Civil Engineering) - Gold Medalist |
+## Geetika Sharma
+
+### Cyber Security Expert
+
+![Display picture](Photos/Shailja.jpg)
+
+## Qualification
+
+1. Matric 
+2. 10+2
+3. B.Sc
+4. M.Sc
+5. Ph.D.
+6. Numbered list
+
+| Sr. No. | Item        | Description     |
+| ------- | ----------- | --------------- |
+| 1       | DoB         | 31/12/1990      |
+| 2       | Designation | Professor       |
+| 3       | Email       | foo@gndec.ac.in |
+| 4       | Experience  | 2 years         |
+
+## Hobbies
+
+- Reading
+- Travelling
+- Hacking
+- Bulleted list
