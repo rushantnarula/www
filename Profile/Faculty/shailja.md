@@ -1,10 +1,28 @@
+## Geetika Sharma
 
-| #Photo# | ![Display picture](Photos/Shailja.jpg) 
-| ------ | -------- |
-| *Name*| shailja|
-| *Date of Birth* | 15/02/1984 |
-| *Designation*| Assistant Professor |
-| *Department* | Computer Science Engineering |
-| *Email* |shailja@gndec.ac.in |
-| *Experience* |  Assistant Professor @ GNDEC, Ludhiana (From August 2013 to till date) , Assistant Professor @ LCET, Katani Kalan,  Ludhiana (From July 2012 to August 2013) , Assistant Professor @ MMU,Mullana,Ambala (From September 2006 to December 2011) |
-| *Qualification* | PhD (Pursuing), M.tech (CSE) , B.tech (CSE)  |
+### Cyber Security Expert
+
+![Display picture](Photos/Shailja.jpg)
+
+## Qualification
+
+1. Matric 
+2. 10+2
+3. B.Sc
+4. M.Sc
+5. Ph.D.
+6. Numbered list
+
+| Sr. No. | Item        | Description     |
+| ------- | ----------- | --------------- |
+| 1       | DoB         | 31/12/2001      |
+| 2       | Designation | Professor       |
+| 3       | Email       | foo@gndec.ac.in |
+| 4       | Experience  | 2 years         |
+
+## Hobbies
+
+- Reading
+- Travelling
+- Hacking
+- Bulleted list
